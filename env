@@ -1,0 +1,4 @@
+USERNAME=wecloud
+PASSWORD=wecloud
+SUDO_OK=true
+AUTOLOGIN=true
